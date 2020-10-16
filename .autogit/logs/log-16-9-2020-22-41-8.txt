@@ -1,0 +1,59 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 16 2020 22:41:08 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* karnal_profile.html
+
+
+Created files:
+* .autogit/logs/log-16-9-2020-21-27-41.txt
+* images/710-at-2018-London-Book-Fair-LBF-photo-6-ftw.jpg
+* images/9226f74847c6eddf4a9907fb069f6125.jpg
+* images/ASPArations-1024x643.jpg
+* images/Banner_Strang_3BookOffer_x700.jpg
+* images/IT.jpg
+* images/LRC1_RibbonCutting.jpg
+* images/National-Book-Festival-2016-photo-via-Facebook-National-Book-Festival.jpg
+* images/b882005413z1_20190621165527_000gk01il20g4-0-39hcpnujfr06kikcis2_fct2198x1649x340x44_t1880.jpg
+* images/beauty-culture.jpg
+* images/big1.jpg
+* images/big2.jpg
+* images/big3.jpg
+* "images/book fair.jpg"
+* "images/book swap.png"
+* images/book_charity.png
+* images/book_donation.jpg
+* images/book_swap_party.jpg
+* images/cb2f854891a2d129d377750b9185f241.jpg
+* images/claire.jpg
+* images/concentrated-young-man-hat-sitting-reading-book-handsome-over-white-background-73795595.jpg
+* images/drama1.jpg
+* images/family.jpg
+* images/food.jpg
+* "images/games & sports.jpg"
+* images/girl-donating-books-1080x675.jpg
+* images/hero_bg_1.jpg
+* images/hero_bg_2.jpg
+* images/hero_bg_3.jpg
+* images/img_5.jpg
+* images/james_new.jpg
+* "images/library management.jpg"
+* images/library_icon.ico
+* images/library_opening.jpg
+* images/maxresdefault.jpg
+* images/nation_book_fest.jpg
+* images/news1.jpg
+* images/news2.jpg
+* images/robert_new.jpg
+* images/tiny1.jpg
+* images/tiny2.jpg
+* images/tiny3.jpg
+* images/travel.jpg
+
+
+Deleted files:
+* debug.log
+
+
+Renamed files:
