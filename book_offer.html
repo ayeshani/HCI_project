@@ -1,0 +1,268 @@
+<!doctype html>
+<hmtl>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA_Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/lightslider.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>Book offer Table</title>
+    <script type="text/javascript" src="js/Jquery.js"></script>
+    <script type="text/javascript" src="js/lightslider.js"></script>
+
+    <style> 
+      
+        .logo {
+            height: 200px;
+            width: 300px;
+            margin-left:0px;
+
+        }
+
+        body { 
+            margin: 0 auto; 
+            background-position:center; 
+            background-size: contain; 
+        
+        } 
+      
+        .menu a { 
+            float: left; 
+            color: white; 
+            text-align: center; 
+            padding: 14px 16px; 
+            text-decoration: none; 
+            font-size: 20px; 
+        }
+        .pageNavigationBar{
+        text-align: center;
+        float: left;
+        clear: none;
+        min-height: 50px;
+        width: 100%;
+        }
+
+        .topnav {
+        background-color:#FF0000;
+        overflow: hidden;
+        }
+
+        .topnav a {
+        float: left;
+        margin-left:130px;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 18px;
+        }
+
+        .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+        }
+        .menu-log { 
+            right: auto; 
+            float: right; 
+        } 
+        footer { 
+            width: 100%; 
+            height: 150px;
+            margin-top: auto;
+            margin-bottom: 0px; 
+            background-color:#353b48; 
+            color:#ddd; 
+            position: absolute; 
+            text-align:center; 
+            font-size:30px; 
+            font-weight:bold; 
+        } 
+        .body_sec { 
+            margin-top: auto;
+            height:auto;
+            width: 100%; 
+        } 
+
+        #but{
+		margin-left:1180px;
+		border-radius:6px;
+		margin-top:0px;
+		}	
+
+        .searchbar{
+        margin-top:10px;
+        margin-right:1045px;
+        height: 60px;
+        background-color: #353b48;
+        border-radius: 30px;
+        padding: 10px;
+        margin-bottom: 10px;
+        }
+
+        .search_input{
+        color: white;
+        border: 0;
+        outline: 0;
+        background: none;
+        width: 0;
+        caret-color:transparent;
+        line-height: 40px;
+        transition: width 0.4s linear;
+        }
+
+        .searchbar:hover > .search_input{
+        padding: 0 10px;
+        width: 450px;
+        caret-color:red;
+        transition: width 0.4s linear;
+        height: 20px;
+        }
+
+        .searchbar:hover > .search_icon{
+        background:darkgrey;
+        color: #e74c3c;
+        }
+
+        .search_icon{
+        height: 40px;
+        width: 40px;
+        float: right;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        color:whitesmoke;
+        text-decoration:none;
+        }
+
+        #new{
+            color: #000000;
+        }
+        .offer{
+            background-color: #18b3b3;
+        }
+        .popup{
+            margin-left: 1250px;
+            background-color: #054191;
+            color: cornsilk;
+        }
+        .table{
+            width: 1000px;
+            margin-left: 300px;
+        }
+    
+        .icons{
+            margin-right: 1300px;
+        }
+    </style> 
+</head>
+
+<body>
+
+     <div>
+    <body background="image\cover.jpg" height= "100%"; width= "100%;">  	
+    </div> 
+    <header> 
+        <div class="logo">
+            <img src="image\jana.png" alt="janaka" height= "200px"; width= "300px;">  	
+        </div>
+
+        <div id="but">
+            <button type="button" id="new" class="btn-link">How It is work</button>
+            <button type="button" id="new" class="btn-link">About US</button>
+            <button type="button" class="btn btn-primary">Login</button>
+            <button type="button" class="btn btn-success">Sign-up</button>
+        </div>
+       
+    </header> 
+
+    <div class="menu"> 
+        <div class="topnav">
+            <a href="#home">Home</a>
+            <a href="#request">Book Request</a>
+            <a href="#offer" class="offer">Book Offer</a>
+            <a href="#events">Events</a>
+            <a href="#members">Members</a>
+            <a href="#goups">Groups</a>
+          </div>
+    </div> 
+    
+    <div class="searchbar">
+         <input class="search_input" type="text" name="" placeholder="Search Book...">
+            <a href="#" class="search_icon"><i class="fas fa-search"></i></a>
+    </div>
+
+    <table class="table table-dark">
+        <tr>
+        <th>ISBN NO</th>
+        <th>Book Title</th>
+        <th>Member ID</th>
+        <th>Price</th>
+        <th>Discount</th>
+        <th>Last price</th>
+        <th>Button</th>
+        </tr>
+                <tr>
+                    <td>2032</td>
+                    <td>Harry Potter</td>
+                    <td>2020 5625</td>
+                    <td>rs.3000</td>
+                    <td>10%</td>
+                    <td>rs.2700/-</td>
+                    <td>
+                        <a href class="btn btn-success">EDIT</a>
+                        <a href class="btn btn-danger">DELETE</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>1032</td>
+                    <td>Safe Haven</td>
+                    <td>20205005</td>
+                    <td>rs.5000</td>
+                    <td>10%</td>
+                    <td>rs.4500/-</td>
+                    <td>
+                        <a href class="btn btn-success">EDIT</a>
+                        <a href class="btn btn-danger">DELETE</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>1232</td>
+                    <td>The Other Lands</td>
+                    <td>20201255</td>
+                    <td>rs.4500</td>
+                    <td>10%</td>
+                    <td>rs.4050/-</td>
+                    <td>
+                        <a href class="btn btn-success">EDIT</a>
+                        <a href class="btn btn-danger">DELETE</a>
+                    </td>
+                </tr>
+    </table>
+    <button class="popup" onclick="myFunction()">Save</button>
+    <script>
+        function myFunction() {
+          alert("Save successfully!");
+        }
+        </script>
+  
+
+    <footer>
+        <br>
+        <div class="icons">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+        </div>
+      
+        <a href class="btn btn-warning">Top</a>
+    </footer> 
+</body>
+</html>

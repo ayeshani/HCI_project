@@ -1,0 +1,62 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 16 2020 20:26:34 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* about.html
+* karnal_profile.html
+* member_page.html
+* profile.html
+
+
+Created files:
+* .autogit/logs/log-16-9-2020-19-26-21.txt
+* Book1.html
+* Book2.html
+* Book3.html
+* Book4.html
+* Book5.html
+* Book6.html
+* Book7.html
+* Book8.html
+* Reset_Pwd.html
+* css/bootstrap.min.css
+* css/font-awesome.min.css
+* css/main-stylesheet.css
+* css/owl.carousel.css
+* css/owl.theme.default.min.css
+* debug.log
+* font/FontAwesome.otf
+* font/fontawesome-webfont.eot
+* font/fontawesome-webfont.svg
+* font/fontawesome-webfont.ttf
+* font/fontawesome-webfont.woff
+* font/fontawesome-webfont.woff2
+* images/Book1.png
+* images/Book2.png
+* images/Book3.png
+* images/Book4.png
+* images/Book5.png
+* images/Book6.png
+* images/Book7.png
+* images/Book8.png
+* images/ad.PNG
+* images/display-image.jpg
+* images/slider-image1.jpg
+* images/slider-image2.jpg
+* images/slider-image3.jpg
+* images/user.png
+* index.html
+* js/bootstrap.min.js
+* js/custom.js
+* js/jquery.js
+* js/owl.carousel.min.js
+* js/smoothscroll.js
+* login.html
+* signup.html
+
+
+Deleted files:
+
+
+Renamed files:
