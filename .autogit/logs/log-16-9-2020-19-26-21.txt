@@ -1,0 +1,158 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 16 2020 19:26:21 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .gitignore
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-16-9-2020-17-17-37.txt
+* about.css
+* about.html
+* about.js
+* css_A/footer.css
+* css_A/head.css
+* css_A/owl.carousel.css
+* css_A/owl.theme.default.min.css
+* first_page.js
+* jquery-3.5.1.js
+* karnal_profile.css
+* karnal_profile.html
+* karnal_profile.js
+* lightslider.css
+* lightslider.js
+* magicscroll.css
+* magicscroll.js
+* member_page.css
+* member_page.html
+* picture/Author_connen_doil.jpg
+* picture/Charlotte_Bronte.jpg
+* picture/Harry_book1.jpg
+* picture/Harry_book2.jpg
+* picture/Harry_book3.png
+* picture/Harry_book4.jpg
+* picture/J.K.Rolling.jpg
+* picture/J.R.R.Tolkien.jpg
+* picture/Laura_Ingalls_Wilder.jpg
+* "picture/Martha McPhee.jpg"
+* picture/Meet_Tamsin_Winter.jpg
+* picture/Rihard_Dawkins.jpg
+* picture/World-Summit-Awards.jpg
+* picture/andrew-neel--FVaZbu6ZAE-unsplash.jpg
+* picture/armando-lucas-correa.jpg
+* picture/aziz-acharki-gXndgCS-CGo-unsplash.jpg
+* picture/book10.jpg
+* picture/book100.jpg
+* picture/book101.jpg
+* picture/book102.jpg
+* picture/book103.jpg
+* picture/book11.jpg
+* picture/book12.jpg
+* picture/book14.jpg
+* picture/book15.jpg
+* picture/book20.jpg
+* picture/book21.jpg
+* picture/book22.jpg
+* picture/book23.jpg
+* picture/book24.jpg
+* picture/book25.jpg
+* picture/book26.jpg
+* picture/book27.jpg
+* picture/book28.jpg
+* picture/book29.jpg
+* picture/book30.jpg
+* picture/book31.jpg
+* picture/book32.jpg
+* picture/book33.jpg
+* picture/book34.jpg
+* picture/book35.jpg
+* picture/book36.jpg
+* picture/book37.jpg
+* picture/book38.jpg
+* picture/book39.jpg
+* picture/book40.jpg
+* picture/book41.jpg
+* picture/book42.jpg
+* picture/book43.jpg
+* picture/book8.jpg
+* picture/book9.jpg
+* picture/boy1.jpg
+* picture/boy2.jpg
+* picture/boy3.jpg
+* picture/boy4.jpg
+* picture/bracking_book16.jpg
+* "picture/cat1 (1).jpg"
+* "picture/cat1 (2).jpg"
+* "picture/cat1 (3).jpg"
+* "picture/cat1 (4).jpg"
+* "picture/cat1 (5).jpg"
+* "picture/cat1 (6).jpg"
+* "picture/cat1 (7).jpg"
+* "picture/cat1 (8).jpg"
+* picture/country.jpg
+* picture/eclips_book19.jpg
+* picture/frin1.jpg
+* picture/frin2.jpg
+* picture/frin3.jpg
+* picture/frin4.jpg
+* picture/frin5.jpg
+* picture/frin6.jpg
+* picture/frin7.jpg
+* picture/frin8.jpg
+* picture/frin9.jpeg
+* picture/girl.jpg
+* picture/girl1.jpg
+* picture/girl10.jpg
+* picture/girl2.jpg
+* picture/girl3.jpg
+* picture/girl4.jpg
+* picture/girl6.jpg
+* picture/girl7.jpeg
+* picture/girl8.jpg
+* picture/girl9.jpg
+* "picture/jess kidd.jpg"
+* picture/libarary1.jpg
+* picture/libarary10.webp
+* picture/libarary11.jpg
+* picture/libarary12.jpg
+* picture/libarary13.jpg
+* picture/libarary14.jpg
+* picture/libarary15.jpg
+* picture/libarary2.jpg
+* picture/libarary3.jpg
+* picture/libarary4.jpg
+* picture/libarary5.jpg
+* picture/libarary6.jpg
+* picture/libarary7.jpg
+* picture/libarary8.jpg
+* picture/libarary9.jpg
+* picture/loadofrings_book6.jpg
+* picture/loadtwo_book7.jpg
+* picture/log.jpg
+* picture/mem6.png
+* picture/mus1.jpg
+* picture/mus2.jpg
+* picture/newmoon_book17.jpg
+* picture/slide1.jpg
+* picture/slide2.jpg
+* picture/slide3.jpg
+* picture/slide4.jpg
+* picture/slide5.jpg
+* picture/slide6.jpg
+* picture/slide7.jpg
+* picture/slide8.jpg
+* picture/slide9.jpg
+* picture/stephenie_meyer.jpeg
+* picture/tolken_book5.jpg
+* picture/world_summit_aword_2013.jpg
+* profile.css
+* profile.html
+* profile.js
+
+
+Deleted files:
+
+
+Renamed files:
