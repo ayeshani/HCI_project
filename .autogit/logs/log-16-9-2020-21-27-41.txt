@@ -1,0 +1,38 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 16 2020 21:27:41 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* karnal_profile.html
+
+
+Created files:
+* .autogit/logs/log-16-9-2020-20-26-34.txt
+* book_offer.html
+* how.html
+* image/1.jpg
+* image/2.jpg
+* image/3.jpg
+* image/4.jpg
+* image/5.jpg
+* image/6.jpg
+* image/7.jpg
+* image/8.jpg
+* image/arrow.png
+* image/cover.jpg
+* image/jana.png
+* image/nruthya.mp4
+* img/controls.png
+* jana_css/jana_lightslider.css
+* jana_css/jana_style.css
+* jana_js/jana_jquery.js
+* jana_js/jana_lightslider.js
+* jana_js/jana_script.js
+* offer.html
+* request.html
+
+
+Deleted files:
+
+
+Renamed files:
