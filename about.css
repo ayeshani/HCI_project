@@ -1,0 +1,362 @@
+.all_contain{
+    height: 540px;
+    width: 100%;
+    overflow: auto;
+}
+
+
+
+
+
+.search_bar_section{
+    max-width: 100%;
+    height: 60px;
+    color: rgba(128, 128, 128, 0.534);
+    background-color: silver;
+    background-image: linear-gradient(rgb(214, 211, 211),rgb(240, 239, 239),rgb(243, 243, 243), rgb(241, 241, 241) ,rgb(235, 235, 235),white);
+    padding-top: 10px;
+    
+  
+  }
+  
+  .ser_bar{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+  }
+  
+  .ser_box{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 400px;
+  
+  
+  }
+  
+  .ser_box:hover{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 400px;
+  
+  
+  }
+  
+  .ser_btn{
+    float: left;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+  }
+  
+  
+  .src_btn{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color:  rgb(51, 35, 35);
+    width: 150px;
+    border:rgb(51, 35, 35) ;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cantainer{
+    background-color: rgb(160, 168, 175);
+}
+
+.picture_change{
+    max-width: 100%;
+    background-color: lightslategrey;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 100px;
+   
+
+}
+
+.mySlides {
+    display:none;
+    
+}
+
+h2 span.spacer {
+    
+    padding:0 5px;
+ }
+
+ .about_website{
+     margin-top: 200px;
+     background-color: lightyellow;
+ }
+
+ .col-xs-12, .col-md-8{
+     float: left;
+     display: flex;
+     flex-direction: column;
+    
+     background-color: lavender;
+ }
+ .col-xs-6,.col-md-4{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+ }
+
+ .about_website{
+     height: 500px;
+ }
+
+ .head_about{
+    height: 40px; 
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    background-color:rgb(192, 192, 248) ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 5px 10px 8px rgb(136, 162, 240);
+
+    
+    
+ }
+ .include_about{
+     height:170px;
+ }
+
+ .how_do{
+     max-width: 100%;
+     background-color: rgb(150, 204, 201);
+     height: 300px;
+     margin-top: 20px;
+     padding-top: 10px;
+    
+     
+ }
+
+ .how_do_head{
+     background-color: rgb(80, 133, 130);
+    padding-left: 20px;
+     height: 40px;
+     margin-left: 10px;
+     margin-right: 20px;
+     margin-top: 10px;
+     padding-top: 5px;
+     box-shadow: rgb(35, 66, 65) 5px 10px 18px;
+    color: rgb(255, 255, 255);
+ }
+
+ .how_do_about{
+    height: 100px;
+}
+.cont1{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 70px;
+}
+
+
+ .how_start{
+     margin-top: 20px;
+     max-width: 100%;
+     height: 500px;
+     background-color: lightyellow;
+     margin-bottom: 20px;
+     
+
+ }
+
+ 
+ .how_start_pic{
+     width: 400px;
+     height: 500px;
+     float: left;
+     display: flex;
+     flex-direction: column;
+ }
+
+ .about_how_start{
+     width: 650px;
+     height: 500px;
+     float: left;
+     display: flex;
+     flex-direction: column;
+     margin-left: 40px;
+    background-color: rgb(255, 211, 144);
+    
+ }
+
+ .how_start_title{
+     margin-top: 20px;
+     box-shadow: rgb(211, 146, 49) 5px 10px 18px ;
+     background-color:  rgb(207, 164, 100);
+     margin-left: 20px;
+     margin-right: 20px;
+     padding-left: 20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     color: rgb(78, 52, 49);
+ }
+
+ .include_how_start{
+     height: 100px;
+ }
+
+ .world_book{
+     max-width: 100%;
+    
+     background-color: rgb(240, 168, 160);
+     padding-top: 20px;
+     margin-bottom: 150px;
+ }
+
+ .world_book_head{
+     margin-top: 20px;
+     margin-right: 20px;
+     margin-left: 20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left:20px ;
+     background-color: rgb(185, 97, 88);
+    box-shadow: salmon 5px 10px 18px;
+    color: white;
+ }
+
+ .top_book{
+     background-color: rgb(248, 220, 200);
+     margin-top: 40px;
+     margin-left: 60px;
+     margin-right: 60px;
+     padding-top: 20px;
+     
+ }
+
+ .top_book_head{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:20px ;
+    background-color: rgb(184, 79, 68);
+   box-shadow: rgb(155, 80, 71) 5px 10px 18px;
+   color: seashell;
+ }
+
+ .top_book_contain{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:20px ;
+    background-color: rgb(187, 152, 149);
+   box-shadow: rgb(155, 80, 71) 5px 10px 18px;
+   
+   height: 300px;
+   max-width: 100%;
+
+ }
+
+ .top_book_list{
+     float: left;
+     display: flex;
+     flex-direction: column;
+     width: 150px;
+     
+     color: rgb(44, 26, 13);
+     align-items: center;
+     margin: 50px;
+
+ }
+
+ .counry_pic{
+     align-items: center;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    max-width: 60%;
+    margin-top: 80px;
+    margin-left: 50px;
+    box-shadow: 5px 10px 18px 5px darkgrey;
+
+   
+ }
+ .pic_con{
+     width: 100%;
+     height: 100%;
+ }
+
+
+ footer{
+     background-color: rgb(255, 251, 251);
+     height: 500px;
+ }
+
+ .first_footer{
+     background-color: rgb(17, 19, 19);
+     height:200px ;
+     max-width: 100%;
+ }
+
+ .web_ink{
+     color: rgb(214, 199, 199);
+     font: italic;
+ }
+
+
+ .col1{
+     float: left;
+     display: flex;
+     flex-direction: column;
+     background-color: burlywood;
+     margin-top: 10px;
+     width: 25%;
+ }
+ .col2{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+    width: 50%;
+}
+.col3{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+    width: 25%;
+}
+
+.second_footer{
+    background-color: black;
+    height: 100px;
+}
+
+
+
+.include{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
