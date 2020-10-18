@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Sun Oct 18 2020 08:13:41 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* about.html
+* book_offer.html
+* karnal_profile.css
+* karnal_profile.html
+* member_page.css
+* member_page.html
+* offer.html
+* profile.css
+* profile.html
+
+
+Created files:
+* .autogit/logs/log-17-9-2020-14-31-39.txt
+
+
+Deleted files:
+
+
+Renamed files:
