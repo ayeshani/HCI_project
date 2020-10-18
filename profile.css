@@ -633,7 +633,17 @@ transition: all 1s;
   background-color: white;
   color: rgb(194, 154, 154);
   border-color: transparent;
+  float: left;
+  flex-direction: column;
+  display: flex;
 }
+
+.line_squre{
+  width: 800px;
+ 
+}
+
+
 .btn_colaps:hover{
   color: #8E9AAF;
   background-color: rgb(0, 0, 0);
@@ -787,3 +797,101 @@ transition: all 1s;
 
 
 
+  .sequer1{
+    width: 50px;
+    height: 100px;
+    background-color: silver;
+    flex-direction: column;
+    float: left;
+    display: flex;
+    text-align: right;
+    border-color: silver;
+    border-width: 10px;
+    border-radius: 5px;
+
+    margin: 2px;
+    padding-top: 2px;
+    padding-right:10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sequer2{
+    width: 50px;
+    height: 100px;
+    background-color: silver;
+    flex-direction: column;
+    float: left;
+    display: flex;
+    text-align: right;
+    border-color: silver;
+    border-width: 10px;
+    border-radius: 5px;
+
+    margin: 2px;
+    padding-top: 2px;
+    padding-right:10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sequer3{
+    width: 50px;
+    height: 100px;
+    background-color: silver;
+    flex-direction: column;
+    float: left;
+    display: flex;
+    text-align: right;
+    border-color: silver;
+    border-width: 10px;
+    border-radius: 5px;
+
+    margin: 2px;
+    padding-top: 2px;
+    padding-right:10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sequer4{
+    width: 50px;
+    height: 100px;
+    background-color: silver;
+    flex-direction: column;
+    float: left;
+    display: flex;
+    text-align: right;
+    border-color: silver;
+    border-width: 10px;
+    border-radius: 5px;
+
+    margin: 2px;
+    padding-top: 2px;
+    padding-right:10px;
+    font-size: 20px;
+    font-weight: bold;
+
+    margin: 2px;
+}
+
+.sequer5{
+    width: 50px;
+    height: 100px;
+    background-color: silver;
+    flex-direction: column;
+    float: left;
+    display: flex;
+    text-align: right;
+    border-color: silver;
+    border-width: 10px;
+    border-radius: 5px;
+
+    margin: 2px;
+    padding-top: 2px;
+    padding-right:10px;
+    font-size: 20px;
+    font-weight: bold;
+
+    margin: 2px;
+}
